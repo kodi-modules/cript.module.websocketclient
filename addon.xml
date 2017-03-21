@@ -1,0 +1,19 @@
+<addon id="script.module.websocketclient" name="websocketclient" version="0.40.0" provider-name="p1c2u">
+    <requires>
+        <import addon="xbmc.python" version="2.24.0"/>
+        <import addon="script.module.six" version="1.9.0"/>
+    </requires>
+    <extension point="xbmc.python.module" library="lib"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Websocket client</summary>
+        <description lang="en">Websocket client packed for KODI</description>
+        <platform>all</platform>
+        <language></language>
+        <license>GNU LESSER GENERAL PUBLIC LICENSE Version 3, 29 June 2007</license>
+        <forum></forum>
+        <website></website>
+        <source>https://github.com/kodi-modules/script.module.websocketclient</source>
+        <email></email>
+        <disclaimer lang="en">Use at your own risk.</disclaimer>    
+    </extension>
+</addon>
