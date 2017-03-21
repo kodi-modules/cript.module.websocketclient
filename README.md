@@ -1,2 +1,2 @@
-# cript.module.websocketclient
-Python requests library packed for Kodi
+# script.module.websocketclient
+Python websocket client library packed for Kodi
